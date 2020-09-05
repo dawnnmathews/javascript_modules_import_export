@@ -1,0 +1,16 @@
+{
+  "name": "javascript_modules_require",
+  "version": "1.0.0",
+  "description": "nodejs app using modules and require",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.0.5"
+  },
+  "type": "module"
+}
